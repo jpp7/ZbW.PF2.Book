@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MergeSortParallel": {
+      "commandName": "Project",
+      "commandLineArgs": "german(unsortiert).dic"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OneRClassifier": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\Dateien\\sonnenbrand(einfach).csv"
+    }
+  }
+}

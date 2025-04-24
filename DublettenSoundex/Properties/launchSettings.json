@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DublettenSoundex": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\PersonenDubletten.csv"
+    }
+  }
+}

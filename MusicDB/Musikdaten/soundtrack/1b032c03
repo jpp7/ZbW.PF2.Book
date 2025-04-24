@@ -1,0 +1,25 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	19285
+#	37980
+#
+# Disc length: 814 seconds
+#
+# Revision: 2
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.78
+#
+DISCID=1b032c03
+DTITLE=Tom Petty / Free Fallin' EP
+DYEAR=1989
+DGENRE=Soundtrack
+TTITLE0=Free Fallin'
+TTITLE1=Love is a Long Road
+TTITLE2=Free Fallin' (Live)
+EXTD= YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+PLAYORDER=

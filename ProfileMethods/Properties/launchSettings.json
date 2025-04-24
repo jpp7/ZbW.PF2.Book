@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProfileMethods": {
+      "commandName": "Project",
+      "commandLineArgs": "400000 > ausgabe.csv"
+    }
+  }
+}

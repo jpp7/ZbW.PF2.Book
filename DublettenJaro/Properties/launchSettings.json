@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DublettenJaro": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\PersonenDubletten.csv"
+    }
+  }
+}
