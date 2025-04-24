@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "2) MusicDB": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\Musikdaten\\"
+    }
+  }
+}

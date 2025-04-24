@@ -1,0 +1,70 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	18874
+#	28690
+#	35755
+#	47099
+#	56573
+#	84913
+#	104085
+#	107980
+#	134038
+#	147255
+#	170510
+#	190816
+#	197417
+#	216537
+#	238970
+#	250922
+#	290826
+#
+# Disc length: 4321 seconds
+#
+# Revision: 0
+# Processed by: cddbd v1.5.2PL0 Copyright (c) Steve Scherf et al.
+# Submitted via: CDex 1.51
+#
+DISCID=1a10df12
+DTITLE=Jerry Goldsmith / Warlock [Intrada Special Collection]
+DYEAR=1989
+DGENRE=Soundtrack
+TTITLE0=The Sentence
+TTITLE1=Ill Wind
+TTITLE2=Time Warp* [previously unreleased]
+TTITLE3=The Ring
+TTITLE4=Like A Father*
+TTITLE5=The Trance** [contains previously unreleased material]
+TTITLE6=Old Age
+TTITLE7=The Rope*
+TTITLE8=Growing Pains
+TTITLE9=He Was Here*
+TTITLE10=The Weather Vane
+TTITLE11=Nails
+TTITLE12=The Terminal*
+TTITLE13=A Witch Among Us*
+TTITLE14=The Uninvited
+TTITLE15=The Headstone*
+TTITLE16=Salt Water Attack
+TTITLE17=The Salt Flats
+EXTD= YEAR: 1989
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+PLAYORDER=

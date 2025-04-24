@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpellcheckBinarySearch": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\Dateien\\lovelace.txt < .\\Dateien\\german.dic"
+    }
+  }
+}

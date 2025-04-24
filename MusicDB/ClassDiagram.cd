@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MusicDB.Discs">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAkAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicDB.Disc">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEQAIAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My.Collections.RedBlackTree&lt;TKey, TValue&gt;" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAKAAAAgAAAAECAAgAAwAAAAAAAAAAAQAAAAQIAA=</HashCode>
+      <FileName>My.Collection\RedBlackTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpellCheck": {
+      "commandName": "Project",
+      "commandLineArgs": "lovelace.txt < german.dic"
+    }
+  }
+}
